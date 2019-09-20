@@ -11,8 +11,8 @@ Using FasterTransformer for accelerating the predict speed of bert and roberta
    * Copy the file of [Faster Transformer](https://github.com/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer) to  [Bert-master](https://github.com/google-research/bert) path.
 
    * Collection bert-base model **uncased_L-12_H-768_A-12** and test classifier data set **IMDB** by processing to `.tsv` format
-        * Link：
-        * Password：
+        * Link：https://pan.baidu.com/s/1SwSji_B8lCr_IIjkMpheZw
+        * Password：jug5
 
    * Add the code of loding  the train/dev/test data set in `run_classifier.py`：
 
